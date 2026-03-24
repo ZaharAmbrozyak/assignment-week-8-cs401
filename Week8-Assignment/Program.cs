@@ -21,6 +21,6 @@ class Program
         myCargo.Add(parcel1);
         myCargo.Add(parcel2);
         
-        Console.WriteLine("Total cost = " + myCargo.GetTotalCost() + "$");
+        Console.WriteLine("Total cost = " + myCargo.GetTotalCost() + "грн.");
     }
 }
